@@ -1,0 +1,18 @@
+.ml-5 {
+  margin-left: 5px;
+}
+
+.done {
+  color: silver;
+  text-decoration: line-through;
+}
+
+input[type="date"].disabled::-webkit-inner-spin-button {
+  display: none;
+}
+
+.content {
+  overflow: auto;
+  height: 500px;
+  max-height: 500px;
+}
